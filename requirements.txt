@@ -1,0 +1,18 @@
+# Core dependencies
+pandas==2.2.3
+textblob==0.18.0
+matplotlib==3.9.2
+
+# Web search & fetching
+duckduckgo-search==6.2.5
+requests==2.32.3
+
+# UI and image handling
+Pillow==10.4.0
+tkinterweb==3.21.5
+
+# Optional but recommended
+numpy==1.26.4
+
+# For compatibility (Windows safe)
+certifi>=2024.7.4
